@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ТВОЙ_НИК/WortChecker.git
+git clone https://github.com/kypich/WortChecker.git
 cd WortChecker
 ```
 
